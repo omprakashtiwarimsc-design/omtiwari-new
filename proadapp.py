@@ -1,0 +1,8 @@
+print('Github -neew features 4 DevOps')
+print('Github -neew features 4 Cloud')
+print('Github -neew features 4 multicloud')
+print('Github -neew features 4 Grafana')
+print('Lcoal-features 4 DevOps')
+print('Lcoal-features 4 cloud')
+print('Lcoal-features 4 Muklitcloud')
+print('Lcoal-features 4 Grfana')
